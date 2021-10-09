@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img alt="Logo" src="https://github.com/BiancaBoueri/Balanco-nao-tao-simplificado/blob/main/img/logo.png" width="200px" /> 
+	<img alt="Logo" src="https://github.com/BiancaBoueri/Balanco-nao-tao-simplificado/blob/main/img/logo.png" width="150px" /> 
 </h1>
 
 <h3 align="center">
@@ -74,7 +74,7 @@ Inicialmente os dados seriam ordenados em uma árvore, na qual, por exemplo, o n
 
 Conforme ilustrado no diagrama:
 
-<img alt="diagrama" src="https://github.com/BiancaBoueri/Balanco-nao-tao-simplificado/blob/main/img/diagram.png" width="600px" /> 
+<img alt="diagrama" src="https://github.com/BiancaBoueri/Balanco-nao-tao-simplificado/blob/main/img/diagram.png" width="400px" /> 
 
 Ao final teríamos uma seguinte estrutura:
 
