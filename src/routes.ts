@@ -11,7 +11,7 @@ const balanceController = new BalanceController();
 
 router.post("/users", createUserController.handle);
 router.post("/login", authenticateUserController.handle);
-//router.post("/balance", ensureAuthenticated, balanceController.handle);
+router.get("/balance", ensureAuthenticated, balanceController.handle);
 
 export { router }
 
